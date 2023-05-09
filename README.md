@@ -13,7 +13,9 @@ Check this first:
 Few SS:
 -Login Page
 ![2022-06-08](https://github.com/saadrehman10/Student-Directory-DataStructure/assets/125679304/50f74a48-fe9a-483e-ab5e-f85b7896ade0)
-
-
+- Main Interface
+![2022-06-08 (2)](https://github.com/saadrehman10/Student-Directory-DataStructure/assets/125679304/c8cae17a-62ad-417e-975f-4d9927bba58e)
+- New Student
 ![2022-06-08 (3)](https://github.com/saadrehman10/Student-Directory-DataStructure/assets/125679304/6d5e7164-e1ef-4ca2-be01-88281395fa4d)
+- Save 
 ![Screenshot 2023-05-09 201502](https://github.com/saadrehman10/Student-Directory-DataStructure/assets/125679304/ebe4b13e-2ba9-4f1a-a77c-86876672bbc9)
