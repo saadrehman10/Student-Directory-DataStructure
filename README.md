@@ -9,7 +9,9 @@ Check this first:
 - The proect is created on neatbeans Jframes.
 - The projects gui is based on  fixed rez of  1366 x 768, so it will cause problems if you resize it.
 - If new student is causing prob or error it because of the Jcalendar pakages just re-download them from the link and add them to the project's laibrary.
-- link https://toedter.com/jcalendar/
+- https://toedter.com/jcalendar/
+- id: saadrehman@studentdir.com   
+- pass: @@Pakistan786@@
 
 
 Few SS:
